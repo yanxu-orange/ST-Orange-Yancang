@@ -2,8 +2,6 @@
 
 ![砚藏横幅](assets/yanzang-release-banner.png)
 
-把故事与角色，好好收藏。
-
 砚藏是一款面向 Android 的 SillyTavern 个人资源管理器，用于保存与管理角色卡、世界书、预设、快速回复和聊天记录。
 
 ## 下载
