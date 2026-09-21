@@ -6,7 +6,7 @@
 
 ## 下载
 
-[下载砚藏最新版本](https://github.com/yanxu-orange/yancang/releases/latest)
+[下载砚藏最新版本](https://github.com/yanxu-orange/ST-Orange-Yancang/releases/latest)
 
 ## 主要能力
 
