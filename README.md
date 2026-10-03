@@ -46,6 +46,6 @@
 - [使用边界](USAGE_BOUNDARIES.md)
 - [字体与第三方许可索引](THIRD_PARTY_NOTICES.md)
 
-创作署名：绫与小砚
+创作署名：砚梨
 
 许可方与维护：绫（`yanxu-orange`）
