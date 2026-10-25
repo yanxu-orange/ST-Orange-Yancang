@@ -11,6 +11,12 @@
 [下载砚藏最新版本](https://github.com/yanxu-orange/ST-Orange-Yancang/releases/latest)
 [下载砚藏PC版本](https://github.com/yanxu-orange/ST-Orange-Yancang-PC/releases/latest)
 
+## 独立小工具
+
+**砚藏·观色**：选择本地主题 JSON，临时预览聊天外观，支持自选背景、头像与全屏查看。
+
+[下载砚藏观色.html](https://github.com/yanxu-orange/ST-Orange-Yancang/raw/refs/heads/main/tools/%E7%A0%9A%E8%97%8F%E8%A7%82%E8%89%B2.html) · 下载后用浏览器打开，主题与选择仅用于本次预览。
+
 ## 主要能力
 
 - 集中整理角色卡、世界书、聊天补全预设、快速回复、聊天记录及独立画师串库
