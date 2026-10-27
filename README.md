@@ -11,6 +11,14 @@
 [下载砚藏最新版本](https://github.com/yanxu-orange/ST-Orange-Yancang/releases/latest)
 [下载砚藏PC版本](https://github.com/yanxu-orange/ST-Orange-Yancang-PC/releases/latest)
 
+## 0.4.1
+
+修复聊天记录阅读模式中的首行缩进及美化正则相关 BUG。
+
+不使用聊天记录阅读模式的用户可跳过本次更新。
+
+[查看 0.4.1 更新说明](RELEASE_NOTES_v0.4.1.md)
+
 ## 独立小工具
 
 **砚藏·观色**：选择本地主题 JSON，临时预览聊天外观，支持自选背景、头像与全屏查看。
