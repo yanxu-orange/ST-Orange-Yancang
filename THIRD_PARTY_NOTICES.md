@@ -31,3 +31,8 @@
 | DOMPurify内嵌Babel辅助运行时（Facebook及贡献者） | 编译辅助 | [MIT](licenses/BABEL_RUNTIME_LICENSE.txt) |
 
 esbuild 0.28.2仅用于本地构建，不作为运行时进入APK。APK内assets/webruntime1保留四份完整依赖许可；Babel辅助代码自身保留上游许可头，本仓库补充完整MIT许可正文。
+
+## 美化主题静态预览（0.5.0）
+
+- Font Awesome Free 6.5.2，Fonticons, Inc.：内嵌未修改的solid图标字体采用SIL Open Font License 1.1，相关基础类约定采用MIT许可。[完整声明](licenses/FONT_AWESOME_NOTICE.txt)。
+- CSS解析复用上列CSS Tree／source-map-js及相同许可。内置背景和示例头像为本项目自有素材；不内置用户选入的主题或背景文件。
